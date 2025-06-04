@@ -71,15 +71,15 @@ Open a web browser and navigate to http://localhost:5000
 ---
 ## 🧑‍💼 Usage Instructions
 
-![Dashboard](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture1%20dashboard.png)
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture1%20dashboard.png" alt="Dashboard" width="300"/>
 
 ### 🔐 Registration
 - Navigate to the **Registration** page.
 - Create an account by entering a **Username**, **Email**, and **Password**.
 - Submit the form to register and log in.
 
-  ![Register](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture2%20register%20page.png)
 
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture2%20register%20page.png" alt="Register" width="300"/>
 ---
 
 ### 🔑 Login
@@ -87,9 +87,8 @@ Open a web browser and navigate to http://localhost:5000
 - Enter your registered credentials (**Email** and **Password**).
 - Click **Login** to access the dashboard.
 
-![Login](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture3%20login%20page.png)
 
-<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture3%20login%20page.png" alt="Login" width="200"/>
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture3%20login%20page.png" alt="Login" width="400"/>
 ---
 
 ### 👤 Customer Segmentation
@@ -99,34 +98,30 @@ Open a web browser and navigate to http://localhost:5000
   - **Spending Score** (1–100)
 - Click the **“Analyze Customer”** button.
 - The system will use the trained **K-Means model** to classify the customer into a specific cluster.
-- 
-![Input Dashboard](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture4%20input.png)
+
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture4%20input.png" alt="Input Dashboard" width="400"/>
 ---
 
 ### 📊 View Visualizations
 
 #### 1️⃣ Income vs. Spending Score by Cluster
 This scatter plot shows how customers are distributed based on income and spending behavior.
-
-![Income vs. Spending Score](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture5%20Income%20vs.%20Spending%20Score.png)
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture5%20Income%20vs.%20Spending%20Score.png" alt="Income vs. Spending Score" width="400"/>
 
 ---
 
 #### 2️⃣ Age vs. Spending Score by Cluster
 This visualization highlights spending patterns across different age groups.
-
-![Age vs. Spending Score](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture6%20Age%20vs.%20Spending%20Score.png)
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture6%20Age%20vs.%20Spending%20Score.png" alt="Age vs. Spending Score" width="400"/>
 
 ---
 
 #### 3️⃣ Age vs. Annual Income by Cluster
 This plot reveals income distribution across various age segments.
-
-![Age vs. Income](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture7%20Age%20vs.%20Annual%20Income.png)
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture7%20Age%20vs.%20Annual%20Income.png" alt="Age vs. Income" width="400"/>
 
 ---
 
 #### 4️⃣ Cluster Distribution Overview
 This bar chart shows the number of customers in each cluster.
-
-![Cluster Distribution](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture8%20Cluster%20Distribution.png)
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture8%20Cluster%20Distribution.png" alt="Cluster Distribution" width="400"/>
