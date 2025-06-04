@@ -71,7 +71,7 @@ Open a web browser and navigate to http://localhost:5000
 ---
 ## 🧑‍💼 Usage Instructions
 
-<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture1%20dashboard.png" alt="Dashboard" width="300"/>
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture1%20dashboard.png" alt="Dashboard" width="500"/>
 
 ### 🔐 Registration
 - Navigate to the **Registration** page.
@@ -106,22 +106,26 @@ Open a web browser and navigate to http://localhost:5000
 
 #### 1️⃣ Income vs. Spending Score by Cluster
 This scatter plot shows how customers are distributed based on income and spending behavior.
+
 <img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture5%20Income%20vs.%20Spending%20Score.png" alt="Income vs. Spending Score" width="400"/>
 
 ---
 
 #### 2️⃣ Age vs. Spending Score by Cluster
 This visualization highlights spending patterns across different age groups.
+
 <img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture6%20Age%20vs.%20Spending%20Score.png" alt="Age vs. Spending Score" width="400"/>
 
 ---
 
 #### 3️⃣ Age vs. Annual Income by Cluster
 This plot reveals income distribution across various age segments.
+
 <img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture7%20Age%20vs.%20Annual%20Income.png" alt="Age vs. Income" width="400"/>
 
 ---
 
 #### 4️⃣ Cluster Distribution Overview
 This bar chart shows the number of customers in each cluster.
+
 <img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture8%20Cluster%20Distribution.png" alt="Cluster Distribution" width="400"/>
