@@ -88,6 +88,8 @@ Open a web browser and navigate to http://localhost:5000
 - Click **Login** to access the dashboard.
 
 ![Login](https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture3%20login%20page.png)
+
+<img src="https://github.com/kakukiran/customer-segmentation-using-k-means-clustering/blob/b3504175883238045a78e63bb21c90905ff3c83e/results%20images/Picture3%20login%20page.png" alt="Login" width="200"/>
 ---
 
 ### 👤 Customer Segmentation
